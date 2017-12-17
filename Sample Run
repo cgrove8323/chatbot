@@ -1,0 +1,28 @@
+      _             _       _              (")                      ___    _                _                                     
+   _ | |  _  _     | |     (_)    __ _      \|     ___      o O O  / __|  | |_     __ _    | |_      _ _    ___     ___    _ __   
+  | || | | +| |    | |     | |   / _` |           (_-<     o      | (__   | ' \   / _` |   |  _|    | '_|  / _ \   / _ \  | '  \  
+  _\__/   \_,_|   _|_|_   _|_|_  \__,_|   _____   /__/_   TS__[O]  \___|  |_||_|  \__,_|   _\__|   _|_|_   \___/   \___/  |_|_|_| 
+_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|     |_|"""""| {======|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""| 
+"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'./o--000'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-' 
+Hello. I'm Julia. What is your name?
+>> Casey
+Hello Casey!
+Say something to me!
+>>Casey: 
+Say something
+>>Casey: I like fries smothered in cheese
+Julia: Wow, that's cool
+>>Casey: What's your favorite food?
+Julia: That's an interesting question. I'm really not sure.
+>>Casey: I like you
+Julia: Thank you!
+>>Casey: You're welcome
+Julia: So tell me about yourself.
+>>Casey: Hello
+Julia: Well, hello to you too!
+>>Casey: Thank you for talking with me
+Julia: You're welcome!
+>>Casey: Goodbye
+Goodbye. It was nice talking to you.
+Would you like to chat again? (y/n)n
+>>> 
