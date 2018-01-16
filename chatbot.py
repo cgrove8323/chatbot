@@ -24,6 +24,12 @@ def confirm(question):
             return False
    
 def has_keyword(statement, keywords):
+    '''for word in keywords:
+        if word in statement:
+            return True
+
+    return False'''
+
     words = statement.split()
     for i in words:
         if i in keywords:
@@ -45,7 +51,7 @@ def get_response(statement):
     
     family_words = ["mother", "father", "brother", "sister"]
     teacher_words = [" cooper "]
-    greetings = ["hello", " hi", "howdy", "sup", "what's up"]
+    greetings = ["hello", " hi", "howdy", "sup", "what's up", "hey"]
     compliments = ["you"]
     gratitude = ["thank"]
     welcome = ["welcome"]
